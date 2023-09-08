@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img
     src="https://media.giphy.com/media/4pnLwIZlVdSyVNKosa/giphy.gif"
-    width="200">
+    width="400">
   </img>
 <h1 align="center">Hi 👋, I'm Sol</h1>
 <h3 align="center">I am a curious, dynamic and persevering person. I like to expand my horizons and keep growing. Fan of challenges. I really want to take my career to another level and enter the world of programming.</h3>
